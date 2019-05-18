@@ -1,4 +1,3 @@
-
 # CitiBike
 
 This application provides an analysis and visualization of CitiBike Usage in the Jersey City Area.
