@@ -33,6 +33,7 @@ Data Munging was performed using Python to clean the dataset and prepare it for 
 |----------|
 <figure class="video container"> <iframe src="https://github.com/daddyjab/CitiBike/blob/master/Citibike_Exploration_JAB.ipynb" width="90%"> </iframe> </figure>
 
+
 | Figure 1: CitiBike - Data Munging in Python with Jupyter Notebook |
 |----------|
 | ![Screenshot](docs/StockReports-Screenshot.png "Figure 1: StockReports - Input Data and Results") |
