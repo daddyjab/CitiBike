@@ -52,13 +52,13 @@ A number of Visualizations were created using the Tableau Desktop application an
 
 Figure 3 below shows a Tableau interactive Dashboard using Tableau Desktop on a large screen monitor.
 
-| Figure 3: CitiBike - Interactive Dashboard Visualization using Tableau Desktop |
+| Figure 3: CitiBike - Screenshot of Interactive Dashboard Visualization using Tableau Desktop |
 |----------|
-| ![Citibike Visualization - Tableau Desktop](docs/Citibike_Visualization_Tableau_Desktop-screenshot.png "Figure 3: CitiBike - Interactive Dashboard Visualization using Tableau Desktop") |
+| ![Citibike Visualization - Tableau Desktop](docs/Citibike_Visualization_Tableau_Desktop-screenshot.gif "Figure 3: CitiBike - Screenshot of Interactive Dashboard Visualization using Tableau Desktop") |
 
 Figure 4 below shows a Tableau Story as viewed on Tableau Public.<br>
 Note: This visualization was designed with the smaller portrait-mode screen size supported by Tableau Public. 
 
 | Figure 4: CitiBike - Interactive Story Visualization using Tableau Public |
 |----------|
-| ![Citibike Visualization - Tableau Desktop](docs/Citibike_Visualization_Tableau_Public-screenshot.png "Figure 4: CitiBike - Interactive Story Visualization using Tableau Public") |
+| ![Citibike Visualization - Tableau Desktop](docs/Citibike_Visualization_Tableau_Public-screenshot.gif "Figure 4: CitiBike - Screenshot of Interactive Story Visualization using Tableau Public") |
