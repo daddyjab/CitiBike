@@ -39,16 +39,13 @@ The Jupyter Notebook shown in Figure 1 below used used to:
 
 | Figure 1: CitiBike - Data Munging - Jupyter Notebook `Citibike_Exploration_JAB` |
 |----------|
-| <iframe src="docs/Citibike_Exploration_JAB-snippet.html" width="100%" height="400px" > </iframe> |
-
-| ![Citibike Visualization - Tableau Desktop](docs/Citibike_Exploration_JAB-snippet.gif "Figure 3: CitiBike - Interactive Dashboard Visualization using Tableau Desktop") |
-
+| ![Citibike Jupyter Notebook - Data Munging](docs/Citibike_Exploration_JAB-snippet.gif "Figure 1: CitiBike - Data Munging - Jupyter Notebook") |
 
 After initial exploration of the data in Tableau, it appeared that having data about how long bikes waited at stations before being used might be helpful.  The Jupyter Notebook shown in Figure 2 below was used to generate this wait time information from the CSV files output from the previous Jupyter notebook.
 
 | Figure 2: CitiBike - Adding Idle Times - Jupyter Notebook `Citibike_Exploration_Wait_Time_JAB` |
 |----------|
-| <iframe src="docs/Citibike_Exploration_Wait_Time_JAB-snippet.html" width="100%" height="400px" > </iframe> |
+| ![Citibike Jupyter Notebook - Idle Times](docs/Citibike_Exploration_Wait_Time_JAB-snippet.gif "Figure 2: CitiBike - Adding Idle Times - Jupyter Notebook") |
 
 # Visualizations (Tableau Desktop, Tableau Public)
 
