@@ -38,13 +38,13 @@ The Jupyter Notebook shown in Figure 1 below used used to:
 
 | Figure 1: CitiBike - Data Munging - Jupyter Notebook `Citibike_Exploration_JAB` |
 |----------|
-| ![Citibike Jupyter Notebook - Data Munging](docs/Citibike_Exploration_JAB-snippet.gif "Figure 1: CitiBike - Data Munging - Jupyter Notebook") |
+| ![Citibike Jupyter Notebook - Data Munging is loading...](docs/Citibike_Exploration_JAB-snippet.gif "Figure 1: CitiBike - Data Munging - Jupyter Notebook") |
 
 After initial exploration of the data in Tableau, it appeared that having data about how long bikes waited at stations before being used might be helpful.  The Jupyter Notebook shown in Figure 2 below was used to generate this wait time information from the CSV files output from the previous Jupyter notebook.
 
 | Figure 2: CitiBike - Adding Idle Times - Jupyter Notebook `Citibike_Exploration_Wait_Time_JAB` |
 |----------|
-| ![Citibike Jupyter Notebook - Idle Times](docs/Citibike_Exploration_Wait_Time_JAB-snippet.gif "Figure 2: CitiBike - Adding Idle Times - Jupyter Notebook") |
+| ![Citibike Jupyter Notebook - Idle Times is loading...](docs/Citibike_Exploration_Wait_Time_JAB-snippet.gif "Figure 2: CitiBike - Adding Idle Times - Jupyter Notebook") |
 
 # Visualizations (Tableau Desktop, Tableau Public)
 
@@ -54,11 +54,11 @@ Figure 3 below shows a Tableau interactive Dashboard using Tableau Desktop on a 
 
 | Figure 3: CitiBike - Screenshot of Interactive Dashboard Visualization using Tableau Desktop |
 |----------|
-| ![Citibike Visualization - Tableau Desktop](docs/Citibike_Visualization_Tableau_Desktop-screenshot.gif "Figure 3: CitiBike - Screenshot of Interactive Dashboard Visualization using Tableau Desktop") |
+| ![Citibike Visualization - Tableau Desktop is loading...](docs/Citibike_Visualization_Tableau_Desktop-screenshot.gif "Figure 3: CitiBike - Screenshot of Interactive Dashboard Visualization using Tableau Desktop") |
 
 Figure 4 below shows a Tableau Story as viewed on Tableau Public.<br>
 Note: This visualization was designed with the smaller portrait-mode screen size supported by Tableau Public. 
 
 | Figure 4: CitiBike - Interactive Story Visualization using Tableau Public |
 |----------|
-| ![Citibike Visualization - Tableau Desktop](docs/Citibike_Visualization_Tableau_Public-screenshot.gif "Figure 4: CitiBike - Screenshot of Interactive Story Visualization using Tableau Public") |
+| ![Citibike Visualization - Tableau Desktop is loading...](docs/Citibike_Visualization_Tableau_Public-screenshot.gif "Figure 4: CitiBike - Screenshot of Interactive Story Visualization using Tableau Public") |
